@@ -102,6 +102,23 @@ keys = {
 ["AM1qTAZS24"] = true, 
 ["vELpp8wwPo"] = true, 
 ["0BiQ66Wnzg"] = true, 
+
+ 
+["XnW0em5qRL"] = true, 
+ 
+["60vERubWmT"] = true, 
+ 
+["iBZHtUGm9b"] = true, 
+ 
+["YcHw4ck2CP"] = true, 
+ 
+["TDukAwWQTs"] = true, 
+ 
+["QYHCFLq3tb"] = true,  
+["RV9N5q0KcS"] = true,  
+["GifFWAvyGS"] = true, 
+ 
+["o9g6Eit4vo"] = true,  
 ["admintestkey"] = true
 }
 return keys
